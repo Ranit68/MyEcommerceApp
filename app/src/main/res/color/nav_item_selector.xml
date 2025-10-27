@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:color="#007BFF" android:state_checked="true"/> <!-- Blue for active state, matching app's primary accent -->
+    <item android:color="#B0B0B0" android:state_checked="false"/> <!-- Light gray for inactive state, providing subtle contrast -->
+</selector>
